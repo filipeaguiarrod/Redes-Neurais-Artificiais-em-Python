@@ -2,7 +2,7 @@
 
  Estudando e aplicando Redes Neurais Artificiais em Python
  
- Conteúdo em construção e baseado no curso: https://www.udemy.com/course/redes-neurais-artificiais-em-python/
+ Conteúdo __em construção__ e baseado no curso: https://www.udemy.com/course/redes-neurais-artificiais-em-python/
  
  - Perceptron, funções de ativação, backpropagation (retropropagação) e gradient descent (descida do gradiente)
  - Cálculos matemáticos que envolvem redes neurais artificiais
